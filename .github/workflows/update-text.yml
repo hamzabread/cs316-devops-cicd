@@ -1,7 +1,7 @@
 name: Update File and Create PR
 
 on:
-  worflow_dispatch: 
+  workflow_dispatch: 
 
 jobs:
   update-file:
